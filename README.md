@@ -13,4 +13,7 @@ Library Management
 # [Library Management System 'Data-flar'](https://data-flair.training/blogs/library-management-system-python-project/)
 # [Scrape Amazon Product Data](https://www.scrapehero.com/tutorial-how-to-scrape-amazon-product-details-using-python-and-selectorlib/)
 # [Goodreads API](https://www.goodreads.com/api)
+# [Tracking Focus with Python 'toward data science'](https://towardsdatascience.com/tracking-your-focus-with-python-bcd804f1f6f2)
+# [Python Library Management System 'project gurukul'](https://projectgurukul.org/python-library-management-system/)
+
 
